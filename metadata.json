@@ -1,0 +1,7 @@
+{
+  "name": "Aurelia Collection",
+  "description": "Premium Pakistani ladies clothing and couture brand offering luxury embroidered lawn, festive chiffons, and seasonal collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
